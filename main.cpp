@@ -2,10 +2,10 @@
 #include <cmath>
 #include <string>
 
-int main()
-{
+int main(){
     using namespace std;
+    cout << "hello" << endl;
 }
-void convert()
-{
+void convert(){
+    
 }
